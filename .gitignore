@@ -1,5 +1,8 @@
 /build/
-.idea/
-.settings/
-.classes/
-.target/
+.idea/*
+.settings/*
+classes/*
+target/*
+TTJavaEE.iml
+.project
+.classpath
