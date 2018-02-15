@@ -46,8 +46,6 @@ public class CDIRest {
     public String processPerson(){
 
         return iProcessGender.processGender(personHolder.getPerson());
-
-
     }
 
     @GET
