@@ -28,9 +28,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/interceptor/MyUserPasswordInterceptor.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/interceptor/NewAnnotation.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/interceptor/UserPasswordInterceptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/jms/JMSRest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/jms/QueueListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/jms/QueueListener2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/jpa/ColorConverter.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/jpa/PasswordConverter.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/com/training/ee/model/Address.class" />
@@ -82,9 +79,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/interceptor/MyUserPasswordInterceptor.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/interceptor/NewAnnotation.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/interceptor/UserPasswordInterceptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/jms/JMSRest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/jms/QueueListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/jms/QueueListener2.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/jpa/ColorConverter.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/jpa/PasswordConverter.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/model/Address.class" />
@@ -94,35 +88,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/model/Spouse.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/rest/MyRest.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/com/training/ee/rest/RestApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cdi-api-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cdi-api-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cdi-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-api-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-api-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-impl-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-impl-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-impl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-jsf-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-jsf-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-jsf.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-se-core-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-se-core-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-se-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-se-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-se.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet-core-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet-core-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-spi-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-spi-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/weld-spi.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/training/ee/cdi/BayProcess.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/training/ee/cdi/BayanProcess.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/training/ee/cdi/CDIRest.class" />
@@ -162,7 +127,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/training/ee/rest/MyRest.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/training/ee/rest/RestApplication.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/TTJavaEE_war_exploded.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/JBoss_Weld_2_0_3.xml" />
@@ -171,7 +135,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ejb_javax_ejb_api_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jms_javax_jms_api_2_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
@@ -198,56 +161,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TTJavaEE.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/META-INF/MANIFEST.MF" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/META-INF/persistence.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/beans.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/classes/META-INF/persistence.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/WEB-INF/web.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes/artifacts/TTJavaEE_war_exploded/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/BayProcess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/BayanProcess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/CDIRest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/ExecuteImpl1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/ExecuteImpl2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/ExecuteImpl3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/IExecute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/IProcessGender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/MyConfigure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/MyGenderConfigurer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/MySelAnno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/PersonGender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/PersonHolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/cdi/TestConstructorInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/ejb/PersonDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/ejb/SingletonEJB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/ejb/SingletonExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/ejb/StatefulEJB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/InterceptorRest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/LogInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/MyConstructorInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/MyInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/MyObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/MyUserPasswordInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/NewAnnotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/interceptor/UserPasswordInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/jms/JMSRest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/jms/QueueListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/jms/QueueListener2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/jpa/ColorConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/jpa/PasswordConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/model/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/model/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/model/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/model/PersonExtra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/model/Spouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/rest/MyRest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/training/ee/rest/RestApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -1200,16 +1119,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518512033208</updated>
-      <workItem from="1518512047215" duration="40431000" />
+      <workItem from="1518512047215" duration="40528000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1518689317556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518689317557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40431000" />
+    <option name="totallyTimeSpent" value="40528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1226,16 +1153,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34699103" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32266325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
