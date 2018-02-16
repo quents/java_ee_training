@@ -1,0 +1,28 @@
+<job id="myjob" xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="1.0">
+
+    <listeners>
+        <listener ref="myJobListener"></listener>
+    </listeners>
+
+    <step id="step1" >
+
+        <listeners>
+            <listener ref="myJobListener"></listener>
+            <listener ref="myStepListener"></listener>
+            <listener ref="myReaderListener"></listener>
+            <listener ref="myChunkListener"></listener>
+        </listeners>
+        <chunk item-count="5">
+            <reader ref="myReader"></reader>
+
+            <processor ref="myprocessor"></processor>
+
+            <writer ref="myWriter"></writer>
+        </chunk>
+
+    </step>
+    <!--<step id="step2">-->
+        <!--<batchlet ref=""></batchlet>-->
+        <!--<end on="COMPLETED"></end>-->
+    <!--</step>-->
+</job>

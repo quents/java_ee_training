@@ -1,14 +1,14 @@
 package com.training.ee.cdi;
 
 import com.training.ee.model.Person;
+import com.training.ee.websocket.ServerSideWebSocket;
 
 import javax.enterprise.context.SessionScoped;
 import javax.inject.Inject;
 import javax.inject.Named;
-import javax.ws.rs.GET;
-import javax.ws.rs.POST;
-import javax.ws.rs.PUT;
-import javax.ws.rs.Path;
+import javax.websocket.Session;
+import javax.ws.rs.*;
+import java.util.Set;
 
 /**
  * Created by yusufyazici on 14/02/2018.
@@ -33,6 +33,9 @@ public class CDIRest {
     @Inject
     private PersonHolder personHolder;
 
+    @Inject
+    private ServerSideWebSocket serverSideWebSocket;
+
     @PUT
     @Path("/getPerson")
     public String getPerson(Person person){
@@ -46,6 +49,19 @@ public class CDIRest {
     public String processPerson(){
 
         return iProcessGender.processGender(personHolder.getPerson());
+    }
+
+    @GET
+    @Path("/sendToWebSocket")
+    public String sendToWebSocket(@QueryParam("name") String name) throws InterruptedException {
+
+        Set<Session> allSessions = serverSideWebSocket.getAllSessions();
+        for (Session aSession: allSessions
+             ) {
+            aSession.getAsyncRemote().sendText(name + "gonderiyorum");
+        }
+
+        return name;
     }
 
     @GET
